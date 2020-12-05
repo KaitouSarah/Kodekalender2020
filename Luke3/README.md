@@ -35,7 +35,7 @@ wjssiksnnergnal
 
 > Løsningen
 
-# De utelatte ordene er marsipangris, pinnekjøtt og askepott.
+**De utelatte ordene er marsipangris, pinnekjøtt og askepott.**
 
 Av: Liv Sarah Ansnes
 

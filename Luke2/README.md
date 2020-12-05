@@ -25,7 +25,7 @@ For 10 000 Pakker vil 32 bli levert.
 
 > Løsningen
 
-# Nissen leverer 69 pakker.
+**Nissen leverer 69 pakker.**
 
 Av: Liv Sarah Ansnes
 

@@ -12,7 +12,7 @@ I denne fila (https://julekalender-backend.knowit.no/challenges/1/attachments/nu
 
 > Løsningen
 
-# Tall nummer  81273  mangler.
+** Tall nummer  81273  mangler.**
 
 Av: Liv Sarah Ansnes
 
